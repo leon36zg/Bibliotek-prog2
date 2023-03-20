@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "book": "Jag är Zlatan Ibrahimovic",
+        "book_author": "Zlatan Ibrahimovic",
+        "book_price": "150kr",
+        "book_subject": "Drama",
+        "book_availability": "false;"
+    }
+]  
+
